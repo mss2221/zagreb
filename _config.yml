@@ -16,7 +16,15 @@ author:
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
+<<<<<<< HEAD
 color-scheme:
+=======
+<<<<<<< HEAD
+color-scheme: blue
+=======
+color-scheme: brown
+>>>>>>> aab3ddb28530eda1b69261cfbdc6163b323e1cd0
+>>>>>>> parent of 65ecbb9... Revert "config color"
 
 permalink: pretty
 permalink: /:title/
