@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               El corrido mexicano
+title:               zagreb
 tagline:             Encoded text and music for analysis, display, and playback
-description:         A demonstration repository of corridos encoded in MEI and plain text that can be searched, displayed, and played in the browser.
+description:         A demonstration repository of Serbian hymn encoded in MEI and plain text that can be searched, displayed, and played in the browser.
 url:                 #
-baseurl:             '/corridosEd'
+baseurl:             '/zagreb'
 
 # About/contact
 author:
@@ -16,15 +16,7 @@ author:
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-<<<<<<< HEAD
-color-scheme:
-=======
-<<<<<<< HEAD
 color-scheme: blue
-=======
-color-scheme: brown
->>>>>>> aab3ddb28530eda1b69261cfbdc6163b323e1cd0
->>>>>>> parent of 65ecbb9... Revert "config color"
 
 permalink: pretty
 permalink: /:title/
