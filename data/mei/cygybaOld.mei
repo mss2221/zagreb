@@ -40,8 +40,6 @@
                         <measure xml:id="measure-0000000025064502" n="1">
                             <staff xml:id="staff-0000002118972344" n="1">
                                 <layer xml:id="layer-0000000781484312" n="1">
-                                  <!-- dummy note -->
-                                  <space dur="8"/>
                                     <beam xml:id="beam-0000001432250475">
                                         <note xml:id="note-0000001728697197" dots="1" dur.ppq="192" dur="8" oct="4" pname="f" color="#000000" stem.dir="up">
                                             <verse xml:id="verse-0000000304206576" color="#000000" n="1">
@@ -50,7 +48,6 @@
                                         </note>
                                         <note xml:id="note-0000000763526042" dur.ppq="64" dur="16" oct="4" pname="g" color="#000000" stem.dir="up" />
                                     </beam>
-
                                     <note xml:id="note-0000000289023557" dur.ppq="256" dur="4" oct="4" pname="a" color="#000000" stem.dir="up" />
                                     <note xml:id="note-0000000979567533" dur.ppq="256" dur="4" oct="4" pname="a" color="#000000" stem.dir="up">
                                         <verse xml:id="verse-0000001793971445" color="#000000" n="1">
@@ -64,8 +61,6 @@
                                     </note>
                                 </layer>
                                 <layer xml:id="layer-0000001138620665" n="2">
-                                  <!-- dummy note -->
-                                  <space dur="8"/>
                                     <note xml:id="note-0000001495899547" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
                                     <note xml:id="note-0000000472791946" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
                                     <note xml:id="note-0000001325188047" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
@@ -74,8 +69,6 @@
                             </staff>
                             <staff xml:id="staff-0000000730478643" n="2">
                                 <layer xml:id="layer-0000001975400644" n="5">
-                                  <!-- dummy note -->
-                                  <space dur="8"/>
                                     <note xml:id="note-0000000613944540" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="up" />
                                     <note xml:id="note-0000002022815583" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" />
                                     <note xml:id="note-0000001380469803" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" />
@@ -85,7 +78,6 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-0000001370257537" staff="1" startid="#note-0000001371066299" mm="100" mm.unit="4"></tempo>
                             <dynam xml:id="dynam-0000000274442304" staff="1" tstamp="1.000000" place="above" vgrp="213">mf</dynam>
                             <dynam xml:id="dynam-0000001170481730" staff="2" tstamp="1.000000" vgrp="209">mf</dynam>
                         </measure>
