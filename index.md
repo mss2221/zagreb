@@ -12,8 +12,6 @@ Music and Words from the Treasury of Metropolitan Damaskin of Zagreb
 
 A demonstration of encoded repository materials that can be searched, displayed, and played in the browser. Scores encoded as MEI, using Verovio web tools for playback.
 
-Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/).
-
 Created with Jekyll template "[Ed.](https://elotroalex.github.io/ed/)" for digital editions.
 <hr>
 
@@ -30,3 +28,5 @@ Created with Jekyll template "[Ed.](https://elotroalex.github.io/ed/)" for digit
   {% endfor %}
   </ul>
 </div>
+
+<!-- Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/) -->
