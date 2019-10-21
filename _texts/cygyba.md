@@ -9,5 +9,5 @@ meifile: cygyba.mei
 Песме на бденију
 за трофлацни хор
 
-Songs at the vigil
+Vigil songs
 for three-flute choir
