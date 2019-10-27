@@ -26,8 +26,8 @@
                     <scoreDef xml:id="scoredef-0000002063163371">
                         <staffGrp xml:id="staffgrp-0000000562993453">
                             <staffGrp xml:id="staffgrp-0000000395637283" symbol="brace" bar.thru="true">
-                                <label xml:id="label-0000001121734439">Piano</label>
-                                <labelAbbr xml:id="labelAbbr-0000001380003095">Pno.</labelAbbr>
+                                <!-- <label xml:id="label-0000001121734439">Piano</label> -->
+                                <!-- <labelAbbr xml:id="labelAbbr-0000001380003095">Pno.</labelAbbr> -->
                                 <instrDef xml:id="instrdef-0000001437964508" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
                                 <staffDef xml:id="staffdef-0000000969949597" n="1" lines="5" ppq="4" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4" meter.sym="common">
                                     <keySig xml:id="keysig-0000000336244371" mode="major" sig="2s" />
