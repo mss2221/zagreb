@@ -8,7 +8,7 @@ This test site is a demonstration of viable workflows to transform printed music
 Source:
 
 [_Музика и речи из ризнице Митрополита Загребачког Дамаскина_ (Грданичког)](http://www.spc.rs/sr/muzika_rechi_iz_riznice_mitropolita_zagrebachkog_damaskina_grdanichkog)<br/>
-_Music and Words from the Treasury of Metropolitan Damaskin (Grdanički)of Zagreb_
+_Music and Words from the Treasury of Metropolitan Damaskin (Grdanički) of Zagreb_
 
 Music was first entered manually into Sibelius, exported as MusicXML, then transformed to MEI so that it could be viewed and played in the browser with Verovio, a music notation engraving library that outputs the score as SVG as well as a MIDI stream.
 
