@@ -85,7 +85,7 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-0000001370257537" staff="1" startid="#note-0000001371066299" mm="150" mm.unit="4"></tempo>
+                            <tempo xml:id="tempo-0000001370257537" staff="1" startid="#note-0000001371066299" mm="110" mm.unit="4"></tempo>
                             <dynam xml:id="dynam-0000000274442304" staff="1" tstamp="1.000000" place="above" vgrp="213">mf</dynam>
                             <dynam xml:id="dynam-0000001170481730" staff="2" tstamp="1.000000" vgrp="209">mf</dynam>
                         </measure>
