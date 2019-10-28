@@ -2,7 +2,7 @@
 layout: page
 title: Frontispiece
 ---
-Portrait of Metropolitan Damascus Grdanic
+Portrait of [Metropolitan Damaskin Gradnički](https://sh.wikipedia.org/wiki/Damaskin_Grdani%C4%8Dki)
 
 ![portrait]({{site.baseurl}}/assets/metropole.jpg){:height="600px"}
 
@@ -11,7 +11,7 @@ Portrait of Metropolitan Damascus Grdanic
 Музеј Српске правоцлавне цркве, Београд\\
 Поклон проф. Мирјане Белоцавић
 
-Portrait of Metropolitan Damascus Grdanic\\
+Portrait of Metropolitan Damaskin Gradnički\\
 oil on canvas, the work of the Hungarian painter Erdelj (1934),\\
 Museum of the Serbian Orthodox Church, Belgrade\\
 Gift of Prof. Mirjane Belocavic
