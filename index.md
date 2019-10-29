@@ -8,7 +8,7 @@ Corpus of MEI and MusicXML files for computer-assisted analysis from
 
 [_Музика и речи из ризнице Митрополита Загребачког Дамаскина (Грданичког)_](http://www.spc.rs/sr/muzika_rechi_iz_riznice_mitropolita_zagrebachkog_damaskina_grdanichkog)
 
-Music and Words from the Treasury of Metropolitan Damaskin (Grdanički) of Zagreb
+_Music and Words from the Treasury of Metropolitan Damaskin (Grdanički) of Zagreb_
 
 A demonstration of encoded repository materials that can be searched, displayed, and played in the browser. Scores encoded as MEI, using Verovio web tools for playback.
 

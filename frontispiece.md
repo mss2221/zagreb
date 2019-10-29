@@ -4,7 +4,7 @@ title: Frontispiece
 ---
 Portrait of [Metropolitan Damaskin Gradnički](https://sh.wikipedia.org/wiki/Damaskin_Grdani%C4%8Dki)
 
-![portrait]({{site.baseurl}}/assets/metropole.jpg){:height="600px"}
+![portrait]({{site.baseurl}}/assets/img/metropole.jpg){:height="600px"}
 
 Портрет митрополита Дамаскина Грданичког\\
 уље на платну, рад мађарског сликара Ердељија (1934),\\
