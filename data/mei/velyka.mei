@@ -357,20 +357,20 @@
                         <measure xml:id="measure-0000001034735797" n="10">
                             <staff xml:id="staff-0000002132083013" n="1">
                                 <layer xml:id="layer-0000000137230652" n="1">
-                                    <note xml:id="note-0000001255102898" dur.ppq="4" dur="4" oct="4" pname="a" stem.dir="up">
+                                    <note xml:id="note-0000001255102898" dur.ppq="8" dur="2" oct="4" pname="a" stem.dir="up">
                                         <verse xml:id="verse-0000000100895302" n="1">
                                             <syl xml:id="syl-0000000098110630" con="d" wordpos="i">Го</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="note-0000000165180900" dur.ppq="8" dur="2" oct="4" pname="a" stem.dir="up">
+                                    <note xml:id="note-0000000165180900" dur.ppq="4" dur="4" oct="4" pname="a" stem.dir="up">
                                         <verse xml:id="verse-0000001786755080" n="1">
                                             <syl xml:id="syl-0000001976490913" con="d" wordpos="m">спо</syl>
                                         </verse>
                                     </note>
                                 </layer>
                                 <layer xml:id="layer-0000002093386851" n="2">
-                                    <note xml:id="note-0000001480812837" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="down" accid.ges="s" />
-                                    <note xml:id="note-0000001941760578" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="down" accid.ges="s" />
+                                    <note xml:id="note-0000001480812837" dur.ppq="8" dur="2" oct="4" pname="f" stem.dir="down" accid.ges="s" />
+                                    <note xml:id="note-0000001941760578" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="down" accid.ges="s" />
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000001008379241" n="2">
