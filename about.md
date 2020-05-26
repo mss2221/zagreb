@@ -5,7 +5,10 @@ title: About
 
 This test site is a demonstration of viable workflows to transform printed music to digital formats for computer assisted analyais, while providing a simple interface for browsing the scores visually and aurally.
 
-Music and text taken from _El corrido mexicano_, compiled and edited by Vicente T. Mendoza (1954).
+Source:
+
+[_Музика и речи из ризнице Митрополита Загребачког Дамаскина_ (Грданичког)](http://www.spc.rs/sr/muzika_rechi_iz_riznice_mitropolita_zagrebachkog_damaskina_grdanichkog)<br/>
+_Music and Words from the Treasury of Metropolitan Damaskin (Grdanički) of Zagreb_
 
 Music was first entered manually into Sibelius, exported as MusicXML, then transformed to MEI so that it could be viewed and played in the browser with Verovio, a music notation engraving library that outputs the score as SVG as well as a MIDI stream.
 
@@ -15,4 +18,4 @@ All material on this website is drawn directly from files in the repository and 
 
 The Jekyll template used to build this site, "Ed.", was specifically developed for use in minimal editions by [https://minicomp.github.io/ed/credits/](https://minicomp.github.io/ed/credits/)
 
-Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/).
+<!-- Design adapted for MEI & Verovio: [Mark Saccomano](https://mss2221.github.io/saccomano/). -->
