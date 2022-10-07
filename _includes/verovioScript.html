@@ -1,26 +1,30 @@
 <script type="module">
-    import 'https://www.verovio.org/javascript/app/verovio-app.js';
 
-    // Create the app - here with an empty option object
-    const app = new Verovio.App(document.getElementById("svg_output"), {});
+   import 'https://www.verovio.org/javascript/develop/verovio-toolkit-wasm.js';
 
-    // Load a file (MEI or MusicXML)
-    fetch("{{ site.baseurl }}/meimidi/meiEdit/{{ page.meifile }}")
-        .then(function(response) {
-            return response.text();
-        })
-        .then(function(text) {
-            app.loadData(text);
-        });
+  document.addEventListener("DOMContentLoaded", (event) => {
+      verovio.module.onRuntimeInitialized = function () {
+          // This line initializes the Verovio toolkit
+          const tk = new verovio.toolkit();
+          tk.setOptions({
+          scale: 35,
+          adjustPageHeight: true
+          });
+          console.log("DOM content loaded")
+          // Load a file (MEI or MusicXML)
+         fetch("{{ site.baseurl }}/data/mei/{{ page.meifile }}")
+             .then(function(response) {
+                 return response.text();
+                 console.log("fetch MEI file")
+             })
 
-            function loadFile() {
-                file = "{{ site.baseurl }}/data/mei/{{ page.meifile }}";
-                $.ajax({
-                    url: file
-                    , dataType: "text"
-                    , success: function(data) {
-                        loadData(data);
-                    }
-                });
-            }
-</script>
+
+             .then(function(text) {
+                 tk.loadData(text);
+                 let svg = tk.renderToSVG(1);
+                 document.getElementById("viewer").innerHTML = svg;
+                          console.log("Verovio options:", tk.getOptions());
+             });
+          }
+      });
+ </script>
