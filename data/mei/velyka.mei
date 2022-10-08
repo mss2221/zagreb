@@ -423,8 +423,6 @@
                                 <layer xml:id="layer-0000000150668615" n="5">
                                     <note xml:id="note-0000001891790443" dur.ppq="8" dur="2" oct="4" pname="d" stem.dir="up" />
                                     <note xml:id="note-0000000976393713" dur.ppq="8" dur="2" oct="4" pname="d" stem.dir="up" />
-                                    <!-- dummy note -->
-                                    <note dur="4" visible="false"/>
                                 </layer>
                             </staff>
                         </measure>
