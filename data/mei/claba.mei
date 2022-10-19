@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Слава Тебје Господи</title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt><date isodate="2022-10-19" type="encoding-date">2022-10-19</date>
+            <availability>
+               <distributor>Copyright © </distributor>
+            </availability>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-vc9db7">
+         <appInfo xml:id="appinfo-1ptc3k9">
+            <application xml:id="application-1jvhdxw" isodate="2022-10-19T23:31:23" version="3.12.1-30d149f">
+               <name xml:id="name-1h117dt">Verovio</name>
+               <p xml:id="p-jfrcab">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1foys7q">
+            <score xml:id="s1otxwy2">
+               <scoreDef xml:id="s1dn5cjy">
+                  <pgHead xml:id="p97jlzg">
+                     <rend xml:id="r1ongzne" halign="center" valign="middle" fontstyle="normal" fontweight="normal">Слава Тебје Господи</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1dl295i">
+                     <staffGrp xml:id="s8ezl9g">
+                        <grpSym xml:id="gv04l55" symbol="brace" />
+                        <staffGrp xml:id="P1" bar.thru="true">
+                           <label xml:id="l7b0ckj">Piano</label>
+                           <labelAbbr xml:id="ltpq6qt">Pno.</labelAbbr>
+                           <staffDef xml:id="s1v4s9kg" n="1" lines="5" ppq="256">
+                              <clef xml:id="c1o3hvkm" shape="G" color="#000000" line="2" />
+                              <keySig xml:id="k1yrbcuf" mode="major" sig="1f" />
+                              <meterSig xml:id="m1qa9crb" count="4" sym="common" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="s1roe2kw" n="2" lines="5" ppq="256">
+                              <clef xml:id="c1ccryt5" shape="G" color="#000000" line="2" />
+                              <keySig xml:id="k3d6vyk" mode="major" sig="1f" />
+                              <meterSig xml:id="m1addh09" count="4" sym="common" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sfxck1p">
+                  <pb xml:id="puz9hme" />
+                  <measure xml:id="m1f6c2da" n="1">
+                     <staff xml:id="sckqfvf" n="1">
+                        <layer xml:id="l195tjg9" n="1">
+                           <note xml:id="nchva05" dur.ppq="256" dur="4" oct="5" pname="c" color="#000000" stem.dir="up">
+                              <verse xml:id="vspb35z" color="#000000" n="1">
+                                 <syl xml:id="s1pf6wzl" con="d" wordpos="i">Cла</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nwqtref" dur.ppq="256" dur="4" oct="4" pname="a" color="#000000" stem.dir="up">
+                              <verse xml:id="v1t7df39" color="#000000" n="1">
+                                 <syl xml:id="su28z7b" con="s" wordpos="t">ба</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nex6809" dur.ppq="256" dur="4" oct="4" pname="b" color="#000000" stem.dir="up" accid.ges="f">
+                              <verse xml:id="v1ma96xx" color="#000000" n="1">
+                                 <syl xml:id="sepagdr" con="d" wordpos="i">те</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n19lcapj" dur.ppq="256" dur="4" oct="5" pname="c" color="#000000" stem.dir="up">
+                              <verse xml:id="vsgsy9d" color="#000000" n="1">
+                                 <syl xml:id="scyrfak" con="s" wordpos="t">бје</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                        <layer xml:id="lnd9ngm" n="2">
+                           <note xml:id="n1aec8gk" dur.ppq="256" dur="4" oct="4" pname="a" color="#000000" stem.dir="down" />
+                           <note xml:id="nb13m2m" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
+                           <note xml:id="n16ym6ar" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
+                           <note xml:id="nytsjis" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1ss6zq4" n="2">
+                        <layer xml:id="ldfs4z5" n="5">
+                           <note xml:id="n7586lv" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="up" />
+                           <note xml:id="n1honz9q" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" />
+                           <note xml:id="n8u4zjf" dur.ppq="256" dur="4" oct="4" pname="d" color="#000000" stem.dir="up" />
+                           <note xml:id="n1fa2nai" dur.ppq="256" dur="4" oct="3" pname="a" color="#000000" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m16bqrz1" n="2">
+                     <staff xml:id="sl0ewea" n="1">
+                        <layer xml:id="lltay3g" n="1">
+                           <note xml:id="nbltctw" dots="1" dur.ppq="384" dur="4" oct="5" pname="d" color="#000000" stem.dir="up">
+                              <verse xml:id="v17thh4v" color="#000000" n="1">
+                                 <syl xml:id="s94a2ls" con="d" wordpos="i">Го</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nk45zpq" dur.ppq="128" dur="8" oct="5" pname="d" color="#000000" stem.dir="up">
+                              <verse xml:id="vs8xkx9" color="#000000" n="1">
+                                 <syl xml:id="swtktvu" con="d" wordpos="m">спо</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1f3pwu9" dur.ppq="512" dur="2" oct="5" pname="c" color="#000000" stem.dir="up">
+                              <verse xml:id="vy4ucqg" color="#000000" n="1">
+                                 <syl xml:id="s4fxbbd" con="s" wordpos="t">ди,</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                        <layer xml:id="l1wmiv6r" n="2">
+                           <note xml:id="n1rb9bbd" dots="1" dur.ppq="384" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
+                           <note xml:id="nzlpyfe" dur.ppq="128" dur="8" oct="4" pname="b" color="#000000" stem.dir="down" accid.ges="f" />
+                           <note xml:id="n1g5k5aq" dur.ppq="512" dur="2" oct="4" pname="a" color="#000000" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s18bcnu9" n="2">
+                        <layer xml:id="lbyb1un" n="5">
+                           <note xml:id="n1dy21tj" dots="1" dur.ppq="384" dur="4" oct="3" pname="b" color="#000000" stem.dir="up" accid.ges="f" />
+                           <note xml:id="ngetib3" dur.ppq="128" dur="8" oct="4" pname="d" color="#000000" stem.dir="up" />
+                           <note xml:id="n1mafsjm" dur.ppq="512" dur="2" oct="4" pname="f" color="#000000" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1yevb4r" n="3">
+                     <staff xml:id="s121f9zj" n="1">
+                        <layer xml:id="l1hu2163" n="1">
+                           <note xml:id="nxxnxjh" dur.ppq="256" dur="4" oct="4" pname="b" color="#000000" stem.dir="up" accid.ges="f">
+                              <verse xml:id="v1lepaaf" color="#000000" n="1">
+                                 <syl xml:id="s9n5da3" con="d" wordpos="i">сла</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1gl5zqz" dur.ppq="256" dur="4" oct="4" pname="a" color="#000000" stem.dir="up" />
+                           <note xml:id="n1xysz" dur.ppq="256" dur="4" oct="4" pname="g" color="#000000" stem.dir="up">
+                              <verse xml:id="vk7p14v" color="#000000" n="1">
+                                 <syl xml:id="s19yxs5v" con="s" wordpos="t">ва</syl>
+                              </verse>
+                           </note>
+                           <beam xml:id="bv8me2">
+                              <note xml:id="nr9ee7" dur.ppq="128" dur="8" oct="4" pname="a" color="#000000" stem.dir="up">
+                                 <verse xml:id="v5pqw2w" color="#000000" n="1">
+                                    <syl xml:id="ssscvlf" con="d" wordpos="i">те</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="n6gw482" dur.ppq="128" dur="8" oct="4" pname="b" color="#000000" stem.dir="up" accid.ges="f" />
+                           </beam>
+                        </layer>
+                        <layer xml:id="lg46f5d" n="2">
+                           <note xml:id="n1xcuz49" dur.ppq="256" dur="4" oct="4" pname="g" color="#000000" stem.dir="down" />
+                           <note xml:id="n1yd0ffu" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
+                           <note xml:id="nuv4cbz" dur.ppq="256" dur="4" oct="4" pname="f" color="#000000" stem.dir="down" />
+                           <beam xml:id="bng1f9c">
+                              <note xml:id="nys44pp" dur.ppq="128" dur="8" oct="4" pname="f" color="#000000" stem.dir="down" />
+                              <note xml:id="n1kfn88q" dur.ppq="128" dur="8" oct="4" pname="e" color="#000000" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s10taasj" n="2">
+                        <layer xml:id="l1nhby1w" n="5">
+                           <note xml:id="ntg3c1z" dur.ppq="512" dur="2" oct="4" pname="c" color="#000000" stem.dir="up" />
+                           <note xml:id="n1184n60" dur.ppq="256" dur="4" oct="4" pname="d" color="#000000" stem.dir="up" />
+                           <note xml:id="nhy07v1" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="spt9z1v" startid="#nxxnxjh" endid="#n1gl5zqz" color="#000000" curvedir="above" />
+                     <slur xml:id="s2osvp2" startid="#nr9ee7" endid="#n6gw482" color="#000000" curvedir="above" />
+                     <slur xml:id="s1yy7qj0" startid="#n1xcuz49" endid="#n1yd0ffu" color="#000000" curvedir="below" />
+                     <slur xml:id="sb85q0i" startid="#nys44pp" endid="#n1kfn88q" color="#000000" curvedir="below" />
+                  </measure>
+                  <measure xml:id="mcqkuog" right="end" n="4">
+                     <staff xml:id="smui1pb" n="1">
+                        <layer xml:id="l11lpncx" n="1">
+                           <note xml:id="n19k1cb8" dur.ppq="1024" dur="1" oct="4" pname="a" color="#000000">
+                              <verse xml:id="v1kmhxhz" color="#000000" n="1">
+                                 <syl xml:id="s15phnkl" con="s" wordpos="t">бје.</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                        <layer xml:id="l1jgzwgl" n="2">
+                           <note xml:id="n1kpn08m" dur.ppq="1024" dur="1" oct="4" pname="f" color="#000000" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s103j1yv" n="2">
+                        <layer xml:id="lm7u55b" n="5">
+                           <note xml:id="nf8nozd" dur.ppq="1024" dur="1" oct="4" pname="f" color="#000000" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
