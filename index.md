@@ -6,7 +6,7 @@ title: "Zagreb"
 
 Corpus of MEI and MusicXML files for computer-assisted analysis from
 
-[_Музика и речи из ризнице Митрополита Загребачког Дамаскина (Грданичког)_](http://www.spc.rs/sr/muzika_rechi_iz_riznice_mitropolita_zagrebachkog_damaskina_grdanichkog)
+[_Музика и речи из ризнице Митрополита Загребачког Дамаскина (Грданичког)_](http://podrska.co.rs/index.php/novosti/84-2010-02-02-10-48-12)
 
 _Music and Words from the Treasury of Metropolitan Damaskin (Grdanički) of Zagreb_
 
