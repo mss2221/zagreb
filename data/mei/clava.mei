@@ -9,9 +9,6 @@
             <respStmt />
          </titleStmt>
          <pubStmt><date isodate="2022-10-19" type="encoding-date">2022-10-19</date>
-            <availability>
-               <distributor>Copyright © </distributor>
-            </availability>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-vc9db7">
@@ -28,9 +25,6 @@
          <mdiv xml:id="m1foys7q">
             <score xml:id="s1otxwy2">
                <scoreDef xml:id="s1dn5cjy">
-                  <pgHead xml:id="p97jlzg">
-                     <rend xml:id="r1ongzne" halign="center" valign="middle" fontstyle="normal" fontweight="normal">Слава Тебје Господи</rend>
-                  </pgHead>
                   <staffGrp xml:id="s1dl295i">
                      <staffGrp xml:id="s8ezl9g">
                         <grpSym xml:id="gv04l55" symbol="brace" />
