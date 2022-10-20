@@ -29,8 +29,6 @@
                      <staffGrp xml:id="s8ezl9g">
                         <grpSym xml:id="gv04l55" symbol="brace" />
                         <staffGrp xml:id="P1" bar.thru="true">
-                           <label xml:id="l7b0ckj">Piano</label>
-                           <labelAbbr xml:id="ltpq6qt">Pno.</labelAbbr>
                            <staffDef xml:id="s1v4s9kg" n="1" lines="5" ppq="256">
                               <clef xml:id="c1o3hvkm" shape="G" color="#000000" line="2" />
                               <keySig xml:id="k1yrbcuf" mode="major" sig="1f" />

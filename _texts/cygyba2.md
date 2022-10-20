@@ -1,13 +1,13 @@
 ---
-title: "Сугуба јектенија"
+title: "Сугуба јектенија (II)"
 editor: Mark Saccomano
 corrido:
 page:
 layout: poem
-meifile: cygyba.mei
+meifile: cygyba2.mei
 ---
 Песме на бденију
 за трофлацни хор
 
 Vigil songs
-for three-flute choir
+for three-part choir
