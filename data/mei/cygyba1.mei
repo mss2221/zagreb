@@ -94,7 +94,7 @@
                            <note xml:id="n1kz8il1" dur.ppq="512" dur="2" oct="3" pname="a" color="#000000" stem.dir="up" />
                         </layer>
                      </staff>
-                     <dynam xml:id="d1m2ua14" staff="1" tstamp="1.000000" vgrp="221">
+                     <dynam xml:id="d1m2ua14" staff="1" tstamp="1.000000" vgrp="221" place="above">
                         <rend xml:id="r1s2zmxa" color="#000000" fontfam="Times New Roman" fontstyle="italic" fontweight="normal">pp</rend>
                      </dynam>
                      <dir xml:id="dxin1lo" staff="1" tstamp="1.000000" vgrp="258" place="above">
@@ -248,13 +248,13 @@
                            <note xml:id="niogzow" dur.ppq="256" dur="4" oct="3" pname="b" color="#000000" stem.dir="up" accid.ges="f" />
                         </layer>
                      </staff>
-                     <dynam xml:id="d19v36jy" staff="1" tstamp="1.000000" vgrp="135" place="below">
+                     <dynam xml:id="d19v36jy" staff="1" tstamp="1.000000" vgrp="135" place="above">
                         <rend xml:id="r3v2yqq" color="#000000" fontfam="Times New Roman" fontstyle="italic" fontweight="normal">p</rend>
                      </dynam>
-                     <dynam xml:id="dmzkz32" staff="1" tstamp="1.000000" vgrp="226" place="below">
+                     <dynam xml:id="dmzkz32" staff="2" tstamp="1.000000" vgrp="226" place="below">
                         <rend xml:id="r1855k6x" color="#000000" fontfam="Times New Roman" fontstyle="italic" fontweight="normal">p</rend>
                      </dynam>
-                     <dir xml:id="dq14bk5" staff="1" tstamp="1.000000" vgrp="258" place="above">
+                     <dir xml:id="dq14bk5" staff="1" tstamp="1.000000"  place="above">
                         <rend xml:id="r11pkw1u" fontfam="Times New Roman" fontstyle="italic" fontweight="normal">Брзо, рецитујући</rend>
                      </dir>
                   </measure>
@@ -373,11 +373,12 @@
                      </staff>
                      <staff xml:id="semudk1" n="2">
                         <layer xml:id="l1ht8lur" n="5">
-                           <note xml:id="n1o7nibp" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" />
-                           <note xml:id="nlsp14l" dur.ppq="256" dur="4" oct="3" pname="b" color="#000000" stem.dir="up" accid.ges="f" />
+                           <note xml:id="n1o7nibp" dur.ppq="256" dur="4" oct="4" pname="c" color="#000000" stem.dir="up" slur="i1"/>
+                           <note xml:id="nlsp14l" dur.ppq="256" dur="4" oct="3" pname="b" color="#000000" stem.dir="up" accid.ges="f" slur="t1"/>
                            <note xml:id="n1nj9x6a" dur.ppq="512" dur="2" oct="3" pname="a" color="#000000" stem.dir="up" />
                         </layer>
                      </staff>
+                    <slur startid="n1o7nibp" tstamp2="2"/>
                   </measure>
                </section>
             </score>
