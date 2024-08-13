@@ -2,8 +2,7 @@
 layout: page
 title: Frontispiece
 ---
-Portrait of [Metropolitan Damaskin Gradnički](https://sh.wikipedia.org/wiki/Damaskin_Grdani%C4%8Dki)
-
+Portrait of [Metropolitan Damaskin Gradnički](https://sh.wikipedia.org/wiki/Damaskin_Grdani%C4%8Dki){:target='_blank'}
 ![portrait]({{site.baseurl}}/assets/img/metropole.jpg){:height="600px"}
 
 Портрет митрополита Дамаскина Грданичког\\
